@@ -2,6 +2,7 @@
   $title="&#12296; It's Pangtastic  &#47; &#12297;";
   $description="It's Pangastic is a Web design company founded by Esther and Gary Pang, a sister-and-brother team. itspangtastic@gmail.com"; ?>
 
+<?php require '../header.php'; ?>
 
     <meta charset="utf-8"> 
     <link href="../public/assets/css/animation.css" rel="stylesheet" media="all">
