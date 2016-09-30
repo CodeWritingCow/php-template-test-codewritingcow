@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>&#12296; Gary Pang  &#47; &#12297;</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Portfolio website for Gary Pang, web developer from Bloomsburg, Pennsylvania.">
+<?php 
+  $title="&#12296; Gary Pang  &#47; &#12297;";
+  $description="Portfolio website for Gary Pang, web developer from Bloomsburg, Pennsylvania."; ?>
 
-    <?php include 'header.php'; ?>
+<?php require 'header.php'; ?>
 
     <link href="public/assets/css/animation.css" rel="stylesheet" media="all">
 

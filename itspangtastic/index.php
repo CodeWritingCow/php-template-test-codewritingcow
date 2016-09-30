@@ -1,17 +1,10 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>&#12296; It's Pangtastic  &#47; &#12297;</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="It's Pangastic is a Web design company founded by Esther and Gary Pang, a sister-and-brother team. itspangtastic@gmail.com">
+<?php 
+  $title="&#12296; It's Pangtastic  &#47; &#12297;";
+  $description="It's Pangastic is a Web design company founded by Esther and Gary Pang, a sister-and-brother team. itspangtastic@gmail.com"; ?>
+
+
     <meta charset="utf-8"> 
-
-    <?php include '../header.php'; ?>
-
     <link href="../public/assets/css/animation.css" rel="stylesheet" media="all">
-
-    <!-- Hide .jsonly elements if JavaScript is disabled. -->  
-    <noscript><style>.js-only { display: none !important; } </style></noscript>
 
     <!--  Google Analytics tracking code -->
     <script>
@@ -29,7 +22,6 @@
   
   <?php include '../navbar.php'; ?>
   
-</div>
 <div class='container-fluid'>
     <div class='row text-center features resume well'>
         <div class='col-xs-12 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4 text-center'>
@@ -69,7 +61,7 @@
             <p style="text-align: center;">Let us design and build your website! Email us at <a href="mailto:itspangtastic@gmail.com">itspangtastic@gmail.com</a></p>
             <button type="button" id="email-button" class="btn btn-primary btn-lg" style="margin-top: 20px;"><a href="mailto:itspangtastic@gmail.com">CONTACT US</a></button>
         </div>
-
+  </div>
 </div>
 
   <?php include '../footer.php'; ?>  
