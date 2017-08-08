@@ -1,4 +1,4 @@
-#PHP Template Test for CodeWritingCow.com
+# PHP Template Test for CodeWritingCow.com
 _By Gary Pang_
 
 This is a test for adding custom PHP templates to my portfolio website. I want all my webpages to use a single header, nav bar and footer.
